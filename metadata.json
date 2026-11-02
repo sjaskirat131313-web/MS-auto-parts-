@@ -1,0 +1,6 @@
+{
+  "name": "MS Auto Part Industries",
+  "description": "Precision engineering and manufacturing of heavy commercial vehicle automotive components including king pins, spiral groove pins, oil-hole pins, and bushes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
